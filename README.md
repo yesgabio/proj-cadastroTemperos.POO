@@ -1,6 +1,6 @@
 
 # Projeto Programação Orientada a Objetos - Técnico em Informática
-## Cadastro de Temperos!
+## Cadastro de Temperos! 🌶
 
 Tarefas indispensáveis:
 - Permitir a inserção dos dados, onde o ID do tempero deverá ser digitado pelo usuário. No
